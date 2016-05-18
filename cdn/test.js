@@ -4,7 +4,7 @@ angular.module('widgets', []).directive('testd', function(){
 
     return {
 
-        template: "<div>This is a test</div>"
+        template: "<div>Judson was here...</div>"
 
     }
 
