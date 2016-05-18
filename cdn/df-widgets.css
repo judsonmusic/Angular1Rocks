@@ -1,0 +1,25 @@
+.df-widget{
+
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 0 10px #444;
+    border-radius: 4px;
+    float: left;
+    margin: 10px;
+    padding: 1px;
+}
+
+.df-widget .heading{
+
+    background-color: #86d2ff;
+    padding: 3px 10px;
+    border-radius: 4px 4px 0 0;
+    color: white;
+
+}
+
+
+.df-widget .content{
+
+    padding: 20px;
+}
